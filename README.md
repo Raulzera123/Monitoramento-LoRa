@@ -13,7 +13,7 @@ Estação de Monitoramento (Nó Sensor): Responsável por coletar dados ambienta
 
 Estação Intermediária (Gateway LoRa): Atua como uma ponte, requisitando os dados da estação de monitoramento e os retransmitindo para a estação central. Essa estação também utiliza um Arduino Nano e um módulo LoRa, ajudando a centralizar informações de múltiplos sensores e a aumentar o alcance da rede.
 
-Estação Central (Servidor): Recebe os dados, realiza o tratamento e os disponibiliza online. Esta estação é implementada com um Raspberry Pi 4, que se conecta a um módulo LoRa para receber os dados e os publica em um broker MQTT (como o HiveMQ) em formato JSON.Aqui você pode detalhar mais o projeto. Qual o problema que ele resolve? Qual o objetivo? Por exemplo: "Este repositório contém os códigos para um sistema completo de comunicação via rede LoRa, incluindo o código para o nó sensor, o gateway e um script para visualização dos dados."
+Estação Central (Servidor): Recebe os dados, realiza o tratamento e os disponibiliza online. Esta estação é implementada com um Raspberry Pi 4, que se conecta a um módulo LoRa para receber os dados e os publica em um broker MQTT (como o HiveMQ) em formato JSON.
 
 ---
 
