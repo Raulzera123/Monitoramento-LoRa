@@ -81,8 +81,6 @@ Este código deve ser carregado no dispositivo que atuará como gateway.
 
 ## 🤝 Como Contribuir
 
-Se desejar, explique como outros podem contribuir.
-
 1.  Faça um "Fork" do projeto.
 2.  Crie uma nova "Branch" (`git checkout -b feature/sua-feature`).
 3.  Faça o "Commit" de suas mudanças (`git commit -m 'Adiciona alguma feature'`).
