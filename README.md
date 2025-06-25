@@ -93,4 +93,4 @@ Se desejar, explique como outros podem contribuir.
 
 ## 📄 Licença
 
-Este projeto está sob a licença [Nome da Licença]. Veja o arquivo `LICENSE` para mais detalhes.
+Este projeto está sob a licença X. Veja o arquivo `LICENSE` para mais detalhes.
