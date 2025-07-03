@@ -75,7 +75,7 @@ Este código deve ser carregado no seu dispositivo sensor.
 
 Este código deve ser carregado no dispositivo que atuará como gateway.
 
-### 3. Script de Visualização (`MQTT_LoRa.py`)
+### 3. Script de Visualização no HiveMQ (`MQTT_LoRa.py`)
 
 ---
 
