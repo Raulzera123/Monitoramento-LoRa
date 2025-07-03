@@ -67,15 +67,15 @@ Um guia simples de como configurar o ambiente.
 
 Instruções sobre como usar seus três códigos.
 
-### 1. Código do Nó Sensor (`nome_do_arquivo_1.ino`)
+### 1. Código do Nó Sensor (`Servidor_LoRa.ino`)
 
 Este código deve ser carregado no seu dispositivo sensor.
 
-### 2. Código do Gateway (`nome_do_arquivo_2.ino`)
+### 2. Código do Gateway (`Cliente_LoRa.ino`)
 
 Este código deve ser carregado no dispositivo que atuará como gateway.
 
-### 3. Script de Visualização (`nome_do_arquivo_3.py`)
+### 3. Script de Visualização (`MQTT_LoRa.py`)
 
 ---
 
