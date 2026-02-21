@@ -88,7 +88,3 @@ Este código deve ser carregado no dispositivo que atuará como gateway.
 5.  Abra um "Pull Request".
 
 ---
-
-## 📄 Licença
-
-Este projeto está sob a licença X. Veja o arquivo `LICENSE` para mais detalhes.
